@@ -1,8 +1,6 @@
 <img src="https://html5te.st/assets/html5test.svg" width="250">
 
-This is a website for testing web standards in the browser. The HTML5 test score is an indication 
-of how well your browser supports the HTML5 standard and related specifications. Find out which 
-parts of HTML5 are supported by your browser today and compare the results with other browsers.
+这是一个在浏览器中测试网页标准的网站。HTML5测试分数是对你的浏览器支持HTML5标准和相关规范的一个指示。找出你的浏览器现在支持HTML5哪些部分与其他浏览器比较结果。
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/html5test.svg?style=social)](https://twitter.com/html5test)
 
